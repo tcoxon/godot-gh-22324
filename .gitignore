@@ -1,0 +1,8 @@
+.import/
+.mono/
+.directory
+/export/
+*~
+*.sw*
+*.dae
+.~*#
